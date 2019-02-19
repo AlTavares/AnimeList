@@ -1,0 +1,4 @@
+
+bootstrap:
+	xcodegen
+	pod install

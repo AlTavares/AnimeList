@@ -1,0 +1,87 @@
+PODS:
+  - AloeStackView (1.0.1)
+  - Kingfisher (5.1.0)
+  - MKProgress (1.0.9)
+  - Nappa (3.0.0):
+    - Nappa/Core (= 3.0.0)
+  - Nappa/Core (3.0.0):
+    - Result (~> 4.0.0)
+  - Result (4.0.1)
+  - RxAtomic (4.4.0)
+  - RxBiBinding (0.1.5):
+    - RxCocoa (~> 4.2)
+    - RxSwift (~> 4.2)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - RxSwiftExt (3.4.0):
+    - RxSwiftExt/Core (= 3.4.0)
+    - RxSwiftExt/RxCocoa (= 3.4.0)
+  - RxSwiftExt/Core (3.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwiftExt/RxCocoa (3.4.0):
+    - RxCocoa (~> 4.0)
+    - RxSwiftExt/Core
+  - RxViewController (0.4.0):
+    - RxCocoa (>= 4.0.0)
+    - RxSwift (>= 4.0.0)
+  - SkeletonView (1.4.1)
+  - SwiftRichString (2.1.0)
+  - SwiftyBeaver (1.6.1)
+  - Weakify (0.5.0)
+
+DEPENDENCIES:
+  - AloeStackView
+  - Kingfisher
+  - MKProgress
+  - Nappa
+  - RxAtomic
+  - RxBiBinding
+  - RxCocoa
+  - RxSwift
+  - RxSwiftExt
+  - RxViewController
+  - SkeletonView
+  - SwiftRichString
+  - SwiftyBeaver
+  - Weakify
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AloeStackView
+    - Kingfisher
+    - MKProgress
+    - Nappa
+    - Result
+    - RxAtomic
+    - RxBiBinding
+    - RxCocoa
+    - RxSwift
+    - RxSwiftExt
+    - RxViewController
+    - SkeletonView
+    - SwiftRichString
+    - SwiftyBeaver
+    - Weakify
+
+SPEC CHECKSUMS:
+  AloeStackView: d22c006da4510db5e220968234174654b5ed6ea5
+  Kingfisher: fcec238063d17404fca89bf0a850583211c4cbf6
+  MKProgress: 4fa8dd701b872c82b780c885d577f99c8848d584
+  Nappa: 488e96da318d01b527a83a80f30c97b92368916d
+  Result: a6e784bebf48b471d59cddc1adb81f41f678c487
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxBiBinding: e7a3566d42474aeed37577259e92da7020698e0e
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  RxSwiftExt: 01f8ecbeeb355698e9c75365ebe908b00dacf45d
+  RxViewController: 359bbc2fda373a78605b2735afb0f9f4f3f6c3e4
+  SkeletonView: 60d6ce7edb0cb4c7758db33c74add50392b3c475
+  SwiftRichString: 810a93f438ee273619d0023c389584d6aeef015d
+  SwiftyBeaver: ccfcdf85a04d429f1633f668650b0ce8020bda3a
+  Weakify: c428a0eabdfadce7e367cea87533dbffbd048b09
+
+PODFILE CHECKSUM: 5f0b61b9f7cbaa5e0523129258a70d81c046940a
+
+COCOAPODS: 1.5.3

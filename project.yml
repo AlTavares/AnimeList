@@ -1,0 +1,23 @@
+name: AnimeList
+options:
+  bundleIdPrefix: xyz.tavares
+targets:
+  AnimeList:
+    type: application
+    platform: iOS
+    deploymentTarget: "12.0"
+    sources: Sources/AnimeList
+    scheme:
+      testTargets:
+        - AnimeListTests
+    settings:
+      ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES: $(inherited)
+  AnimeListTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources: Tests/AnimeListTests
+    dependencies:
+      - target: AnimeList
+    scheme:
+      testTargets:
+        - AnimeListTests
